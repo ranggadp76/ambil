@@ -1,4 +1,4 @@
-Daftar + Auto Claim Voucher GOFOOD, GORIDE, GOCAR Terbaru 15/04/2020 
+Daftar + Auto Claim Voucher GOFOOD, GORIDE, GOCAR Terbaru 22/06/2020 
 
 Jangan Lupa Berdoa Sebelum Menjalankan Scripnya 
 
@@ -32,4 +32,3 @@ Masukin Kode Otpnya
 
 Enter Dan Selesai 
 
-*NOTE: VOUCHER GORIDE BUAT BANDUNG, SEMARANG, PALEMBANG, MAKASSAR, YOGYAKARTA, BALI & GOCAR BUAT JABODETABEK, SBY, BANDUNG
